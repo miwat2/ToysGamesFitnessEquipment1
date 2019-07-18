@@ -1,0 +1,62 @@
+body {
+	
+	background-color: #8cade2;
+	font-style: italic;
+	padding-left: 20px;
+	padding-right: 20px;
+	}
+
+table, tr, td, .about {
+	text-align: center;
+	padding-top: 10px;
+	}
+
+nav {
+	background-position: center;
+	background-color: #1b25d6;
+	text-align: center;
+	vertical-align: middle;
+	font-size: 70px;
+	text-decoration: underline;
+	color: #ceddea;
+	font-weight: bold;
+	font-style: italic;
+	background-repeat: no-repeat;
+	background-size: cover;
+	}
+	
+table {
+	width: 100%;
+	background-color: #8cade2;
+	font-style: italic;
+	font-size: 30px;
+	}
+
+div {
+	background-color: #8cade2;
+	font-style: italic;
+	text-indent: 30px;
+	text-align: justify;
+	}
+
+img {
+
+	width: 300px;
+	height: 300px;	
+	}
+
+a {
+	font-size: 40px;
+	font-style: italic;
+	background-color: #8cade2;
+	top: 50%;
+ 	left: 50%;
+	display: inline-block;
+	text-align: center;
+	position: fixed;
+	}
+
+nav, .toys {
+	text-align: justify;
+	display: inline-block;
+	}
